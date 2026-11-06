@@ -48,13 +48,13 @@ const testimonials = [
     name: 'Suresh Menon',
     role: 'CP since 2020',
     image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200',
-    content: 'Partnering with GreenNest has been transformative for my business. The quality of listings and support is unmatched.'
+    content: 'Partnering with Genie has been transformative for my business. The quality of listings and support is unmatched.'
   },
   {
     name: 'Kavitha Rao',
     role: 'CP since 2019',
     image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200',
-    content: 'The commission structure and timely payments make GreenNest my preferred partner for property sales.'
+    content: 'The commission structure and timely payments make Genie my preferred partner for property sales.'
   },
   {
     name: 'Mohammed Rafi',

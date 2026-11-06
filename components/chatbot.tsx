@@ -101,7 +101,7 @@ export function ChatBot({ onViewProperty }: ChatBotProps) {
     // Greetings
     if (queryLower.match(/^(hi|hello|hey|good morning|good afternoon|good evening)/i)) {
       return {
-        content: "Hello! Welcome to GreenNest Realty. How can I help you today? Looking for a new property?",
+        content: "Hello! Welcome to Genie Realty. How can I help you today? Looking for a new property?",
         properties: []
       }
     }

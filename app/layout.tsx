@@ -15,12 +15,12 @@ const playfair = Playfair_Display({
 
 export const metadata: Metadata = {
   title: 'Genie Realty | Premium Real Estate',
-  description: 'Discover your dream property with GreenNest Realty. Browse premium apartments, villas, lands, and commercial properties across prime locations.',
+  description: 'Discover your dream property with Genie Realty. Browse premium apartments, villas, lands, and commercial properties across prime locations.',
   keywords: 'real estate, properties, apartments, villas, land, commercial, buy property, rent property',
 
   openGraph: {
     title: 'Genie Realty | Premium Real Estate',
-    description: 'Discover your dream property with GreenNest Realty.',
+    description: 'Discover your dream property with Genie Realty.',
     url: 'https://genierealty.com',
     siteName: 'Genie Realty',
     images: [

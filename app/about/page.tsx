@@ -122,7 +122,7 @@ export default function AboutPage() {
                 </p>
                 <p>
                   Today, we continue to innovate and expand our services while staying true to our core values. 
-                  Whether you&apos;re a first-time buyer or a seasoned investor, GreenNest Realty is here to guide 
+                  Whether you&apos;re a first-time buyer or a seasoned investor, Genie Realty is here to guide 
                   you every step of the way.
                 </p>
               </div>
