@@ -26,7 +26,7 @@ export default function RentalPage() {
               Rental & Leasing
             </h1>
             <p className="text-muted-foreground text-lg">
-              Rental listings are not included in the current Sunshine Realtors property sheet.
+              Rental listings are not included in the current GENIE REALTY project list.
               Contact us to ask about availability.
             </p>
             <Button asChild className="mt-6 bg-primary hover:bg-primary/90 text-primary-foreground">

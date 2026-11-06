@@ -318,7 +318,7 @@ export const properties: Property[] = [
     possession: 'December 2028',
     description: 'Manikonda residential project offering 2BHK, 2.5BHK and 3BHK apartments in multiple sizes.',
   }),
-  listing('26', 'Sunshine County', 'Makthamandharam, Srisailam Highway', 'land', {
+  listing('26', 'GENIE REALTY County', 'Makthamandharam, Srisailam Highway', 'land', {
     price: 13500, priceUnit: 'per_sq_yard', priceLabel: '₹13,500/sq yard',
     area: 165, areaLabel: '165–597 sq yards',
     category: 'open-plots', status: 'ready-to-construct', statusLabel: 'Ready to Construct',

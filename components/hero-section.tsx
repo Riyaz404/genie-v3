@@ -48,7 +48,7 @@ export function HeroSection() {
             transition={{ delay: 0.3 }}
             className="inline-block px-4 py-2 bg-primary/20 backdrop-blur-sm rounded-full text-primary-foreground text-sm font-medium mb-6"
           >
-            Sunshine Realtors Property Listings
+            GENIE REALTY Project Listings
           </motion.span>
           
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-serif font-bold mb-6 leading-tight text-balance">
