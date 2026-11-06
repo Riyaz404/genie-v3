@@ -20,13 +20,13 @@ export function FeaturedProperties() {
           className="text-center mb-12"
         >
           <span className="text-primary font-medium text-sm uppercase tracking-wider">
-            Sunshine Projects
+            GENIE REALTY Project List
           </span>
           <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl font-bold text-foreground mt-2 mb-4">
-            Current Projects
+            GENIE REALTY Project List
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Browse current residential projects from the Sunshine Realtors property sheet.
+            Explore the latest projects from GENIE REALTY.
           </p>
         </motion.div>
 
